@@ -4,4 +4,4 @@
 
 A crazy flexbox challenge built in React native, inspired by one of [Tobias Ahlin Bjerrome's](https://tobiasahlin.com) [blog posts](https://tobiasahlin.com/blog/common-flexbox-patterns)
 
-![screenshot](https://drive.google.com/file/d/1BhHZ44A9LTd5oNROQlQYLSCkljuzi8lz/view?usp=sharing)
+![screenshot](https://drive.google.com/file/d/1BhHZ44A9LTd5oNROQlQYLSCkljuzi8lz/view)
